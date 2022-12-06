@@ -1,2 +1,13 @@
 Title - Ramiel's final quest
-Developed by: Unfortunate Studios
+Page 1;Choice A;Choice B;2;3
+Page 2;Choice A;Choice B;4;1
+Page 3;Choice A;Choice B;5;1
+Page 4;Choice A;Choice B;6;2
+Page 5;Choice A;Choice B;7;3
+Page 6;Choice A;Choice B;8;4
+Page 7;Choice A;Choice B;9;5
+Page 8;Choice A;Choice B;10;6
+Page 9;Choice A;Choice B;11;7
+Page 10;Choice A;Choice B;12;8
+Page 11 - Good Ending
+Page 12 - Bad Ending/Death
