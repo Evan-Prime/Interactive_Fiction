@@ -45,8 +45,8 @@ namespace Interactive_Fiction
             Console.Clear();
             Console.WriteLine(MainText);
             Console.WriteLine();
-            Console.WriteLine("Q - " + FirstChoice);
-            Console.WriteLine("E - " + SecondChoice);
+            Console.WriteLine("[Q] - " + FirstChoice + " " + FirstPage);
+            Console.WriteLine("[E] - " + SecondChoice + " " + SecondPage);
             Console.WriteLine();
             Console.Write("Choose your option: ");
             Console.ReadKey(false);
@@ -54,7 +54,10 @@ namespace Interactive_Fiction
 
         static void InputSystem()
         {
-            ConsoleKeyInfo
+            ConsoleKeyInfo ChoiceKey;
+            ChoiceKey = Console.ReadKey(true);
+
+
         }
 
     }
