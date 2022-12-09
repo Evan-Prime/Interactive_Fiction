@@ -1,13 +1,12 @@
 Title - Ramiel's final quest
-Page 1;Choice A;Choice B;2;3
-Page 2;Choice A;Choice B;4;1
-Page 3;Choice A;Choice B;5;1
-Page 4;Choice A;Choice B;6;2
-Page 5;Choice A;Choice B;7;3
-Page 6;Choice A;Choice B;8;4
-Page 7;Choice A;Choice B;9;5
-Page 8;Choice A;Choice B;10;6
-Page 9;Choice A;Choice B;11;7
-Page 10;Choice A;Choice B;12;8
-Page 11 - Good Ending
-Page 12 - Bad Ending/Death
+Ramiel wakes up in a cave and lost his adventuring party. he sees two paths the path behind him and the in front of him.;Ramiel heads down the path in front of him.;Ramiel takes the path behind him.;2;3
+Ramiel sees a trail of blood leading further down the path ahead.;Ramiel continues down the path and following the trail.;Ramiel turns around and heads back to where he woke up.;4;1
+Ramiel faintly hear some sounds that has a mechanical nature to it.;Ramiel continues to head down the path to find out where the sounds are coming from.; Ramiel turns back to get to where he woke up;5;1
+Ramiel finds what looks to be the remains of a fierce battle. but the blood trail continues further in the cave.;Ramiel continues to follow the blood trail.;Ramiel is spooked and heads back to where enter from;6;2
+Ramiel finds a elevator that head upwards and the sounds seem to coming from it.;Ramiel takes the elevator up to see where it leads.;Ramiel decides to head back to see what he can find.;7;3
+Ramiel follows the blood until it seemly comes to a end. Ramiel sees that there is a gated entrence that is slightly open.;Ramiel enters the gated entrence.;Ramiel decides that this a sign that he should go the way;8;4
+Ramiel after taking the elevator up, sees a bright light and what looks to be the enternce to the cave.;Ramiel heads out to see if he can find his adventuring party.;Ramiel decides to head back into the elevator and head down;9;5
+Ramiel enters a big opening and sees a sword stuck in a rock in the center of the room.;Ramiel goes to try to pull the sword out of the stone.;Ramiel thinks this is too suspicious and leaves.;10;6
+Ramiel hears the sound of few people bickering in the distance.;Ramiel runs towards the source of the sound.;Ramiel decides that he want to see if there is any loot in the cave.;11;7
+As Ramiel goes to pull the sword, he feels a sharp pain in his chest. As he looks down he sees the blade a spear coming out of his chest, things start to fade into black... Ramiel Dies
+As Ramiel reachs the the source of the bickering, he is finally reunited with his adventuring party. Ramiel and his party head off to continue there adventures.
